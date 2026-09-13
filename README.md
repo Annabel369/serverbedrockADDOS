@@ -1,5 +1,7 @@
 # serverbedrockADDOS
 
+Eu fiz isto para ajudar a colocar num servidor os ADDONS EU ACHEI MUITO LINDO OS DELA E DO NAMORADO DELA EM FIM TA I O LINK https://www.instagram.com/muranguete.oficiall/reels/
+
 <img width="1845" height="903" alt="image" src="https://github.com/user-attachments/assets/58b39331-140a-4839-94de-79aea4abe5ea" />
 
 🟩 Creeper Add-on Manager — Bedrock Server
