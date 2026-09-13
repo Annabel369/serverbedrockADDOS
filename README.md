@@ -5,6 +5,9 @@
 🟩 Creeper Add-on Manager — Bedrock Server
 O Creeper Add-on Manager é uma ferramenta gráfica em Python (Tkinter) desenvolvida para automatizar a gestão, ativação e remoção de Behavior Packs e Resource Packs em servidores de Minecraft Bedrock Edition.
 
+<img width="1350" height="616" alt="Captura de tela de 2026-09-13 16-56-20" src="https://github.com/user-attachments/assets/4a6b4fa1-5f6e-41d0-b063-dfda89ca347f" />
+
+
 A ferramenta lê dinamicamente os arquivos manifest.json das pastas de pacotes, extrai os UUIDs e versões corretas, e sincroniza as alterações tanto no índice global (valid_known_packs.json) quanto nas configurações do mundo (world_behavior_packs.json e world_resource_packs.json).
 
 🚀 Funcionalidades
