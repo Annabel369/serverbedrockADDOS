@@ -16,6 +16,8 @@
 
 <img width="1599" height="1200" alt="WhatsApp Image 2026-10-14 at 19 32 56" src="https://github.com/user-attachments/assets/aede4e96-2dd0-42b8-bfd8-e836dcdb5236" />
 
+196, 63, 228
+
 
 
 Eu fiz isto para ajudar a colocar num servidor os ADDONS O SERVIDOR LINK
