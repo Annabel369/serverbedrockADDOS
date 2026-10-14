@@ -1,5 +1,20 @@
 # serverbedrockADDOS
 
+           🟩🟩🟩  
+           🟩🟩  
+          🟩  
+🟧🟧🟧🟧🟧🟧🟧🟧  
+🟧⬛⬛🟧🟧⬛⬛🟧  
+🟧⬛⬛🟧🟧⬛⬛🟧  
+🟧🟧🟧🟧🟧🟧🟧🟧  
+🟧🟧🟧⬛⬛🟧🟧🟧  
+🟧⬛⬛⬛⬛⬛⬛🟧  
+🟧⬛⬛⬛⬛⬛⬛🟧  
+🟧⬛⬛🟧🟧⬛⬛🟧  
+🟧🟧🟧🟧🟧🟧🟧🟧  
+
+
+
 Eu fiz isto para ajudar a colocar num servidor os ADDONS O SERVIDOR LINK
 
 https://www.minecraft.net/pt-br/download/server/bedrock
