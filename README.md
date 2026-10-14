@@ -17,7 +17,7 @@ tem todo servidor aqui tudo pronto e configurado
     [00] Effortless Building
     [01] Huggy & Friends Add-On 
     [02] Slice of Life Add-On - Behavior Pack 
-    [03] Tombs! BP (id: c1a70ef0-8dcb-4bff-b393-3aaa5c22bced, version: 1.0.0) @ behavior_packs/Tombs BP
+    [03] Tombs!
     [04] Vanilla Vehicles Add-On 
     [05] Villager News 1.0 Add-on 
     [06] Physics Pro 1.0 
