@@ -16,6 +16,9 @@
 
 <img width="1599" height="1200" alt="WhatsApp Image 2026-10-14 at 19 32 56" src="https://github.com/user-attachments/assets/aede4e96-2dd0-42b8-bfd8-e836dcdb5236" />
 
+<img width="1373" height="768" alt="Gemini_Generated_Image_g70jpyg70jpyg70j" src="https://github.com/user-attachments/assets/58ec798c-6463-4a2a-8021-66a4d727975d" />
+
+
 196, 63, 228
 
 
