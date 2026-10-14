@@ -8,6 +8,48 @@ EU ACHEI MUITO LINDO OS DELA E DO NAMORADO DELA EM FIM TA I O LINK
 
 https://www.instagram.com/muranguete.oficiall/reels/
 
+
+https://drive.google.com/file/d/16EVXzPjD8lNw1ObB4PhYFOMJ07-kUXb2/view?usp=sharing
+
+tem todo servidor aqui tudo pronto e configurado
+
+
+    [00] Effortless Building
+    [01] Huggy & Friends Add-On 
+    [02] Slice of Life Add-On - Behavior Pack 
+    [03] Tombs! BP (id: c1a70ef0-8dcb-4bff-b393-3aaa5c22bced, version: 1.0.0) @ behavior_packs/Tombs BP
+    [04] Vanilla Vehicles Add-On 
+    [05] Villager News 1.0 Add-on 
+    [06] Physics Pro 1.0 
+    [07] Simply Backpacks 
+    [08] Minimap Add-On 
+    [09] Better Backpacks v1.9 [BP] 
+    [10] AI Players Add-On BP 
+    [11] Custom Music v7 BP 
+    [12] Raiyon's Tree Chop┬ºcV1.7 ┬ºf1.21+ 
+    [13] Arborea
+    
+
+rg shader 3.9
+
+
+GEEmotion+
+
+
+Texture Moster v1
+
+
+Newb Complementary Reimaginet - Merged
+
+
+eu consegui coloca esta testura no servidor tambem
+
+
+as outras textura que estao destivadas elas nao pode ligar com esta se nao uma sobrepoem a outra e da erro mas ja ta tudo configurado
+
+
+
+
 <img width="1845" height="903" alt="image" src="https://github.com/user-attachments/assets/58b39331-140a-4839-94de-79aea4abe5ea" />
 
 🟩 Creeper Add-on Manager — Bedrock Server
